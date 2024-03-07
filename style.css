@@ -7,3 +7,15 @@
     width: 100vw;
     height: 100vh;
 }
+
+.logo {
+    text-align: center;
+}
+
+.logo img {
+    background: none;
+    width: auto;
+    height: 200px;
+    display: inline-block;
+    margin-top: 20px;
+}
